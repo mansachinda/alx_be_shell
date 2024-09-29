@@ -1,3 +1,3 @@
-# This is a repo for all my Shell Projects
+## This is a repo for all my Shell Projects
 
-## Shell projects cd, mv, and kodes
+# Shell projects including creating new files and directories mkdr, navigation cd, moving files mv, deleting files and directories rm, and codes
